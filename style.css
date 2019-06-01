@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+}
+#about{
+    float: right;
+    margin-top: -46px;
+    margin-left: 477px;
+    position: absolute;
+}
+#portfolio {
+    float: right;
+    margin-top: -46px;
+    margin-left: 578px;
+    position: absolute
+}
+#contact {
+    float: right;
+    margin-top: -46px;
+    margin-left: 700px;
+    position: absolute;
+}
+#header{
+    font-family: Georgia;
+    background-color: teal;
+    width: 313px;
+    height: 50px;
+    text-align: center;
+    margin-left: 61px;
+}
+#p1{
+    padding: 35px;
+    width: 650px;
+    position: fixed;
+    margin-left: 193px;
+    margin-top: 30px;
+}
+#about-me{
+    position: absolute;
+    margin-left: 226px;
+    margin-top: 35px;
+}
