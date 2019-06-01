@@ -1,6 +1,21 @@
 *{
     box-sizing: border-box;
 }
+.bio{
+    width: 943px;
+    height: 264px;
+    background: whitesmoke;
+    margin: 35px;
+    position: fixed;
+}
+.stut{
+    background: white;
+    height: 70px;
+    margin: auto;
+    margin-top: -35px;
+    width: 960px;
+}
+
 #about{
     float: right;
     margin-top: -46px;
@@ -10,22 +25,23 @@
 #portfolio {
     float: right;
     margin-top: -46px;
-    margin-left: 578px;
+    margin-left: 558px;
     position: absolute
 }
 #contact {
     float: right;
     margin-top: -46px;
-    margin-left: 700px;
+    margin-left: 650px;
     position: absolute;
 }
 #header{
     font-family: Georgia;
     background-color: teal;
-    width: 313px;
-    height: 50px;
+    width: 315px;
+    height: 44px;
     text-align: center;
-    margin-left: 61px;
+    margin-left: 64px;
+    margin-top: 35px;
 }
 #p1{
     padding: 35px;
