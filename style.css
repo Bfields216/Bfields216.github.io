@@ -2,9 +2,9 @@
     box-sizing: border-box;
 }
 .bio{
-    width: 111px;
-    height: 72px;
-    background: beige;
+    width: 106px;
+    height: 47px;
+    background: white;
     margin: 35px;
     position: fixed;
 }
@@ -25,26 +25,10 @@
 }
 .top-right{
     float: right;
-    margin-top: 27px;
-    /* margin-right: 102px; */
-    /* background-color: beige; */
+    margin-top: 12px;
+    margin-right: 256px;
 }
 #header{
-    
-    font-family: Georgia;
-    width: 315px;
-    height: 44px;
-    text-align: center;
-    float: left;
-    /* position: fixed; */
-    /* margin-right: -10px; */
-    margin-top: 21px;
-    margin-left: 8px;
-    /* color: beige; */
-    /* margin-right: 48px; */
-    margin-top: 52px;
-}
-#header1{
     font-family: Georgia;
     width: 315px;
     height: 44px;
@@ -54,10 +38,24 @@
     /* margin-right: -10px; */
     margin-top: 21px;
     margin-left: -29px;
-    color: black;
-    margin-right: 39px;
-    margin-top: 64px;
+    /* color: beige; */
+    /* margin-right: 48px; */
+    margin-top: 52px;
+    color: white
 }
+#header1{
+    font-family: Georgia;
+    width: 315px;
+    height: 44px;
+    text-align: center;
+    float: left;
+    /* position: fixed; */
+    /* margin-right: -10px; */
+    margin-top: 27px;
+    margin-left: -84px;
+    color: black;
+}
+    
 
 p{
     padding: 35px;
@@ -72,7 +70,7 @@ p{
 #about-me{
     position: absolute;
     margin-left: 0px;
-    margin-top: 26px;
+    margin-top: 10px;
 }
 img{
     width: 215px;
@@ -134,8 +132,26 @@ img{
     margin-right: 39px;
     margin-top: 64px;
 }
+
+.top-right-index{
+    float: right;
+    margin-top: 21px;
+    margin-right: 149px;
+    background-color: beige;
+}
 .top-right2{
     float: right;
     margin-top: 27px;
     color: white;
+}
+
+#header4{
+font-family: Georgia;
+    width: 315px;
+    height: 44px;
+    text-align: center;
+    float: left;
+    margin-top: 52px;
+    color: white;
+    margin-left: -84px;
 }
